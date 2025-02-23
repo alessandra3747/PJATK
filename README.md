@@ -4,7 +4,14 @@
 
 # PJATK
 
-This repository compiles the list of all of the repositories that I have created as part of my studies at [PJAIT](https://pja.edu.pl/)  ([PJATK](https://pja.edu.pl/) in Polish).
+This repository contains some of my projects made during my studies at [PJAIT](https://pja.edu.pl/) 
 
 </div>
+<br><br>
+
+Feel free to explore the following repositories:
+
+- 📦 [**SKJ**](https://github.com/YourUsername/SKJ) – A project related to SKJ course, where I implemented various algorithms.
+- 📚 [**UTP**](https://github.com/YourUsername/UTP) – A project for the UTP course, focused on advanced programming techniques.
+
 
