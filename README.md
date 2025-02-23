@@ -4,7 +4,7 @@
 
 # PJATK
 
-This repository contains some projects I made as part of my studies at [PJAIT](https://pja.edu.pl/)  ([PJATK](https://pja.edu.pl/) in Polish).
+This repository compiles the list of all of the repositories that I have created as part of my studies at [PJAIT](https://pja.edu.pl/)  ([PJATK](https://pja.edu.pl/) in Polish).
 
 </div>
 
