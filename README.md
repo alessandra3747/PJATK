@@ -11,7 +11,7 @@ This repository contains some of my projects made during my studies at [PJAIT](h
 
 Feel free to explore the following repositories:
 
-- 📦 [**SKJ**](https://github.com/YourUsername/SKJ) – A project related to SKJ course, where I implemented various algorithms.
-- 📚 [**UTP**](https://github.com/YourUsername/UTP) – A project for the UTP course, focused on advanced programming techniques.
+- 📦 [**SKJ**](https://github.com/alessandra3747/SKJ) – A project related to SKJ course, where I implemented various algorithms.
+- 📚 [**UTP**](https://github.com/alessandra3747/UTP) – A project for the UTP course, focused on advanced programming techniques.
 
 
