@@ -9,7 +9,7 @@ This repository contains some of my projects made during my studies at [PJAIT](h
 </div>
 <br><br>
 
-Feel free to explore the following repositories:
+Feel free to explore the following repositories: 
 
 - 💻 [**TPO**](https://github.com/alessandra3747/TPO) – A project for the TPO course, where I implement **distributed programming technologies in Java**.
 - 🗂️ [**APBD**](https://github.com/alessandra3747/APBD) – A project for the APBD course, teaching **REST API and .NET framework**.
